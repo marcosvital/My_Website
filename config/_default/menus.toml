@@ -37,5 +37,5 @@
 
 [[main]]
   name = "Teaching"  # Title of the link.
-  url = "teaching/"  # Widget Page folder name.
+  url = "#teaching/"  # Widget Page folder name.
   weight = 30  # Position of the link in the navigation bar.
