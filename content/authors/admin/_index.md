@@ -18,7 +18,7 @@ organizations:
   url: "https://ufal.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm Lecturer, Researcher and an Open Science Enthusiast!
 
 interests:
 - Open Science
@@ -48,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:marcosvital@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/marcosvcvital
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marcosvital
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,6 +74,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Marcos, I am a Biologist and Quantitative Ecologist from Brazil, based at Universidade Federal de Alagoas, in Maceió, where I work as a Lecturer and Researcher. This website works as a small portfolio and contact page for anyone interested in my work, and will easily connect you to my academic projects, repositories, channels, blogs and everything related.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Feel free to reach me if you want to ask anything or just say hi - just go the icons bellow my pic for contact information.
+
+For blogging, please refer to my [Medium profile](https://medium.com/@marcosvital) (mostly in Portuguese).
+
+If you want to check out my academic publications, you can find my [published papers here and preprints](https://github.com/marcosvital/publications/).
+
+Finnaly, if you want to chek out my academic profile at Lattes plataform (in Portuguese), [you can find it here](http://lattes.cnpq.br/9774938987860991).
