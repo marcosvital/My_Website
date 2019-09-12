@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ecology, Biostats, Open Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidade Federal de Alagoas
+  url: "https://ufal.br/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Open Science
+- R language and Biostatistics
+- Ecology and Evolutionary Biology
+- Conservation Biology
+- Education
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: DS in Entomology
+    institution: Universidade Federal de Viçosa
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Ecology
+    institution: Universidade Federal de Goiás
+    year: 2005
+  - course: BSc in Biological Sciences
+    institution: Universidade Federal de Viçosa
+    year: 2003
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
