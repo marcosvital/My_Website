@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:marcosvital@gmail.com".
+  link:   "mailto:marcosvital@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marcosvcvital
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.br/citations?user=fNCSmOQAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/marcosvital
