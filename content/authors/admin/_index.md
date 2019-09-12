@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Marcos Vital
+name: Marcos V C Vital
 
 # Username (this should match the folder name)
 authors:
@@ -25,8 +25,7 @@ interests:
 - R language and Biostatistics
 - Ecology and Evolutionary Biology
 - Conservation Biology
-- Education
-
+- Education, Active Learning and Gamefication
 
 education:
   courses:
@@ -69,17 +68,18 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
+
 ---
 
-Hi! My name is Marcos, I am a Biologist and Quantitative Ecologist from Brazil, based at Universidade Federal de Alagoas, in Maceió, where I work as a Lecturer and Researcher. This website works as a small portfolio and contact page for anyone interested in my work, and will easily connect you to my academic projects, repositories, channels, blogs and everything related.  
+Hi! My name is Marcos, I am a Biologist and Quantitative Ecologist from Brazil, based at Universidade Federal de Alagoas (in Maceió), where I work as a Lecturer and Researcher. This website works as a small portfolio and contact page for anyone interested in my work, and will easily connect you to my academic projects, repositories, channels, blogs and everything related. ;)
 
-Feel free to reach me if you want to ask anything or just say hi - just go the icons bellow my pic for contact information.
+- For blogging, please refer to my [Medium profile](https://medium.com/@marcosvital) (mostly in Portuguese).
 
-For blogging, please refer to my [Medium profile](https://medium.com/@marcosvital) (mostly in Portuguese).
+- If you want to check out my academic publications, you can find my [published papers and preprints here](https://github.com/marcosvital/publications/).
 
-If you want to check out my academic publications, you can find my [published papers here and preprints](https://github.com/marcosvital/publications/).
+- You can find some R and Biostats related stuff at my [GitHub profile](https://github.com/marcosvital), and I also have a [R dedicated blog (in Portuguese) right here](https://cantinhodor.wordpress.com/).
 
-Finnaly, if you want to chek out my academic profile at Lattes plataform (in Portuguese), [you can find it here](http://lattes.cnpq.br/9774938987860991).
+- Finally, if you want to check out my academic profile at Lattes platform (in Portuguese), [you can find it here](http://lattes.cnpq.br/9774938987860991).
