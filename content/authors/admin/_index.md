@@ -83,3 +83,5 @@ Hi! My name is Marcos, I am a Biologist and Quantitative Ecologist from Brazil, 
 - You can find some R and Biostats related stuff at my [GitHub profile](https://github.com/marcosvital), and I also have a [R dedicated blog (in Portuguese) right here](https://cantinhodor.wordpress.com/).
 
 - Finally, if you want to check out my academic profile at Lattes platform (in Portuguese), [you can find it here](http://lattes.cnpq.br/9774938987860991).
+
+***

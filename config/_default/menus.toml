@@ -8,20 +8,20 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
   weight = 40
+
+# [[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
 
 # [[main]]
 #  name = "Contact"
@@ -34,3 +34,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[main]]
+  name = "Teaching"  # Title of the link.
+  url = "teaching/"  # Widget Page folder name.
+  weight = 30  # Position of the link in the navigation bar.
