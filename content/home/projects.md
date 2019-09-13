@@ -76,6 +76,6 @@ subtitle = ""
 +++
 
 - [The Open Teach-R Project](https://github.com/marcosvital/teach-R-project): Sharing knowledge and material for teaching R courses!
-- [Open Game tools](https://github.com/marcosvital/open-game-tools): a list of open source tools for game creation.
-- [Blogs de R no Brasil](https://github.com/marcosvital/blogs-de-R-no-Brasil): a list of R blogs from Brazil (in Portuguese).
+- [Open Game tools](https://marcosvital.github.io/open-game-tools/about/): a list of open source tools for game creation.
+- [Blogs de R no Brasil](https://marcosvital.github.io/blogs-de-R-no-Brasil/): a list of R blogs from Brazil (in Portuguese).
 - [Cantinho do R](https://cantinhodor.wordpress.com/): my blog about R and Biostats (in Portuguese).
