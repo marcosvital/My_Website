@@ -25,7 +25,7 @@ interests:
 - R language and Biostatistics
 - Ecology and Evolutionary Biology
 - Conservation Biology
-- Education, Active Learning and Gamefication
+- Education, Active Learning and Gamification
 
 education:
   courses:
